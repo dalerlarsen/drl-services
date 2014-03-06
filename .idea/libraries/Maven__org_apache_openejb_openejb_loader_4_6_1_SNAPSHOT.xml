@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.openejb:openejb-loader:4.6.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-loader/4.6.1-SNAPSHOT/openejb-loader-4.6.1-20140305.040809-96.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-loader/4.6.1-SNAPSHOT/openejb-loader-4.6.1-20140305.040809-96-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-loader/4.6.1-SNAPSHOT/openejb-loader-4.6.1-20140305.040809-96-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

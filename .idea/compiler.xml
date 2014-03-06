@@ -24,8 +24,13 @@
         <processorPath useClasspath="true" />
         <module name="authentication-common" />
         <module name="authentication-webapp" />
+        <module name="simple-webservice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authentication-webapp" target="1.6" />
+      <module name="simple-webservice" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 

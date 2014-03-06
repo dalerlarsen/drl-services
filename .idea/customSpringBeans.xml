@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CustomBeanRegistry">
+    <option name="map">
+      <map>
+        <entry key="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;wss:binding xmlns:wss=&quot;http://jax-ws.dev.java.net/spring/servlet&quot; xmlns:ws=&quot;http://jax-ws.dev.java.net/spring/core&quot; url=&quot;/authInquiry&quot;&gt;&#10;  &lt;wss:service&gt;&#10;    &lt;!-- nested bean is of course fine --&gt;&#10;    &lt;ws:service bean=&quot;#authenticationService&quot; /&gt;&#10;  &lt;/wss:service&gt;&#10;&lt;/wss:binding&gt;&#10;&#10;">
+          <value>
+            <list>
+              <CustomBeanInfo>
+                <option name="beanName" value="org.jvnet.jax_ws_commons.spring.SpringService#0" />
+                <option name="beanClassName" value="org.jvnet.jax_ws_commons.spring.SpringService" />
+                <option name="path">
+                  <list>
+                    <option value="0" />
+                    <option value="0" />
+                  </list>
+                </option>
+              </CustomBeanInfo>
+              <CustomBeanInfo>
+                <option name="beanName" value="com.sun.xml.ws.transport.http.servlet.SpringBinding#0" />
+                <option name="beanClassName" value="com.sun.xml.ws.transport.http.servlet.SpringBinding" />
+              </CustomBeanInfo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.openejb:openejb-cxf-transport:4.6.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-cxf-transport/4.6.1-SNAPSHOT/openejb-cxf-transport-4.6.1-20140305.040943-95.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-cxf-transport/4.6.1-SNAPSHOT/openejb-cxf-transport-4.6.1-20140305.040943-95-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/openejb/openejb-cxf-transport/4.6.1-SNAPSHOT/openejb-cxf-transport-4.6.1-20140305.040943-95-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

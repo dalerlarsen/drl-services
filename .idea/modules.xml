@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/authentication-app/authentication-app.iml" filepath="$PROJECT_DIR$/authentication-app/authentication-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/authentication-app/common/authentication-common.iml" filepath="$PROJECT_DIR$/authentication-app/common/authentication-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/authentication-webapp/authentication-webapp.iml" filepath="$PROJECT_DIR$/authentication-webapp/authentication-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-webservice/simple-webservice.iml" filepath="$PROJECT_DIR$/simple-webservice/simple-webservice.iml" />
     </modules>
   </component>
 </project>
